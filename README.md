@@ -8,6 +8,9 @@ This repository contains source code for the experiments in
 Reference
 ---------
 
+If you find this code useful in your research, we ask that you cite the
+following paper:
+
 ```
 @article{fahrbach2020faster,
   title={Faster Graph Embeddings via Coarsening},
