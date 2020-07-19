@@ -1,4 +1,5 @@
 Faster Graph Embeddings via Coarsening
+
 ========================================
 
 This repository contains source code for the experiments in
@@ -6,6 +7,7 @@ This repository contains source code for the experiments in
 (ICML 2020).
 
 Citation
+
 ---------
 
 If you find this code useful in your research, we ask that you cite the
