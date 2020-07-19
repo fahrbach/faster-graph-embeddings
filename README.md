@@ -9,9 +9,12 @@ We investigate how coarsening algorithms based on the Schur complement affect
 the predictive performance of random walk-based graph embeddings for different
 learning tasks.
 Our multi-label vertex classification experiment builds on the framework for
-NetMF and evaluates the accuracy of one-vs-all logistic regression models.
-Our link prediction experiment builds on the setup in node2vec and explores the
-effect of vertex sparsification on AUC scores for several popular baselines.
+[NetMF](https://arxiv.org/abs/1710.02971) (Qiu et al., WSDM 2018)
+and compares the accuracy of one-vs-all logistic regression models.
+Our link prediction experiment builds on the setup in
+[node2vec](https://arxiv.org/abs/1607.00653) (Grover and Leskovec, KDD 2016)
+and explores the effect of vertex sparsification on AUC scores for several
+popular link prediction baselines.
 
 ## Citation
 
