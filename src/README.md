@@ -1,5 +1,3 @@
-# Faster Graph Embeddings via Coarsening
-
 ## Datasets
 The three datasets we consider are widely used for the multiclass vertex
 classification task, and .mat files of these networks and their labels can be
@@ -44,6 +42,7 @@ part of the following repositories:
 
 We include the following tools in our archive:
   - classification/Line.py        (LINE embedding algorithm)
+  - classification/link-prediction.py        (sklearn-based classification pipeline)
   - classification/NetMF.py       (NetMF embedding algorithm)
   - classification/NetSMF/        (NetSMF embedding algorithm)
   - classification/prediction.py  (multiclass vertex classification pipeline)
