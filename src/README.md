@@ -67,3 +67,6 @@ For each embedding and corresponding .mat file, the vertex classification
 scores (both micro-F1 and macro-F1) are recorded in a .log file associated with
 the graph embedding file. We plot the results of all these experiments using
 the Python tools in the plots/ directory.
+
+The AUC scores for the link prediction experiments are the output of running
+classification/link-prediction.py on individual graph embeddings.
