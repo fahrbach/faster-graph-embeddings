@@ -22,10 +22,12 @@ If you find this code useful in your research, we ask that you cite the
 following paper:
 
 ```
-@article{fahrbach2020faster,
-  title={Faster Graph Embeddings via Coarsening},
+@inproceedings{fahrbach2020faster,
+  title={Faster graph embeddings via coarsening},
   author={Fahrbach, Matthew and Goranci, Gramoz and Peng, Richard and Sachdeva, Sushant and Wang, Chi},
-  journal={arXiv preprint arXiv:2007.02817},
-  year={2020}
+  booktitle={International Conference on Machine Learning},
+  pages={2953--2963},
+  year={2020},
+  organization={PMLR}
 }
 ```
